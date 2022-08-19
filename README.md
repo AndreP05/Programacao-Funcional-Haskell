@@ -1,1 +1,3 @@
-# Programa-o-Funcional-Haskell
+# Programação-Funcional-Haskell
+
+Aluno: André Pacheco dos Santos
